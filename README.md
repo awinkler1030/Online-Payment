@@ -1,5 +1,8 @@
 # Module 2 Capstone - TEnmo
 
+This is done at week 8 of the cohort. It was competed in 3 days. There are some oppurtunities to refactor.
+
+
 Congratulations—you've landed a job with TEnmo, whose product is an online payment service for transferring "TE bucks" between friends. However, they don't have a product yet. You've been tasked with writing a RESTful API server and command-line application.
 
 ## Use cases
